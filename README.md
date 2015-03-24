@@ -4,3 +4,6 @@ Aprendiendo a ocupar GitHub para poder subir los códigos de algún proyecto o t
 Learning on how to use GitHub to upload codes of some project or university's work
 
 *Mejorar inglés*
+
+
+Bueno, me encuentro en Arica, hace mucho calor y soy humano, creo 
